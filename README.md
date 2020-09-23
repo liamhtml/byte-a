@@ -1,5 +1,20 @@
 ### Hi there 👋
-## 💬 Overview: I am Byte-a, I'm a Programmer and Penetration tester, and an over tech enthusiest.
+
+💬 Overview: I am Byte-a, I'm a Programmer and Penetration Tester, and an over Tech Enthusiast.
+
+## 💬 Languages
+ -Java
+ -HTML5
+ -CSS3
+ -Batch
+ -VBS
+ 
+ ##🔭 I’m currently working on
+ -DSArchive
+ -HellioOS
+ 
+ ##🌱 I’m currently learning
+ -Python3
 <!--
 **Byte-A/byte-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
